@@ -7,7 +7,9 @@ Please refer to: https://itextpdf.com for more information about this lib.
 
 If you want to run the Code beside the jar File. You'll have to download iText 5 Dependencies.
 
-## Download the jar and run it:
+## Installation:
+
+Download the "watermarkPDF.jar" and run it:
 
 ```
   java -jar watermarkPDF -i:<inputFile> -w:<watermark>
