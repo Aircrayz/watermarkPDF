@@ -1,5 +1,8 @@
 # Tool to create a watermark / background via text, image or pdf in an existing pdf
 
+ITextPDF ist used in this project.
+Please refer to: https://itextpdf.com/de for more information about this lib.
+
 ## Download the jar and run it:
 
 ```
